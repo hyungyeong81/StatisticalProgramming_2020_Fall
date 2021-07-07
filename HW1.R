@@ -43,7 +43,7 @@ z <- (x-y)^2 #setting a vector z in order to simplify upcoming calculation code
 sqrt(sum(z)) #computing the Euclidean distance between x and y
 
 #Codes for the fourth question
-a <- c(1,8,3,1,4,3,3,15,4,6,5,10,6,2,1,1,9,2,5,4,4,4,3,2,1) #generating a vector a
+a <- c(1,8,3,1,4,3,3,15,4,6,5,10,6,2,1,1,9,2,5,4,4,4,3,2,1) #generating vector a
 A <- matrix(a,5,5) #generating the given matrix A by using the vector a
 #4-(1): counting the numbers of rows and columns
 nrow(A) #the number of rows
